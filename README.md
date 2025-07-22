@@ -15,6 +15,9 @@ Backend dev & creator of Framefox 🦊<br>I love solving tough problems with sim
 ![](https://github-readme-stats.vercel.app/api?username=RayenBou&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=RayenBou&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RayenBou&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=RayenBou&repo=framefox)](https://github.com/RayenBou/framefox)
+
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RayenBou)](https://github.com/athul/waka-readme)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RayenBou&icon=0&color=0)](https://visitcount.itsvg.in)
