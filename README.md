@@ -1,3 +1,7 @@
+
+![banner](./banner.png)
+
+
 # 💫 About Me:
 Backend dev & creator of Framefox 🦊<br>I love solving tough problems with simple, clear solutions.<br>Curious by nature, I shift easily from deep details to big-picture thinking 🔍✨<br>I craft software with care, like good old hand-made work.
 
